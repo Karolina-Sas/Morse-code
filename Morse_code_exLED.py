@@ -34,7 +34,6 @@ Morse_dictionary={
 LED_1=machine.Pin(15,machine.Pin.OUT)
 LED_2=machine.Pin(14,machine.Pin.OUT)
 LED_3=machine.Pin(12,machine.Pin.OUT)
-buzzler=machine.Pin(2,machine.Pin.OUT)
 
 def text_transformation():
     letters_list=[]
@@ -72,11 +71,7 @@ def text_transformation():
                         LED_2.value(0)
                         LED_3.value(0)
                         utime.sleep(0.14)
-                
-                        
-                           
+                                                          
         
 print(text_transformation())
-buzzler.value(1)
-utime.sleep(0.5)
-buzzler.value(0)
+
