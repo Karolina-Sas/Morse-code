@@ -8,7 +8,12 @@ This project uses a Raspberry Pico microcontroller to control LED lights accordi
 -  three green LEDs
 -  male-to-male (M2M) jumper wires
 -  micro USB cable
-# Wiring diagram
+## Wiring diagram
 
 
 ![Untitled Sketch 2_bb](https://user-images.githubusercontent.com/68974023/150204089-13500d48-07b8-4f8e-9dfa-fb4f1e24a0f9.png)
+
+## Task list 
+
+- [ ] adding buzzler with genator for sound effects
+- [ ] external LCD display connection for morse code display
