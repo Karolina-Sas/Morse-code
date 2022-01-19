@@ -15,5 +15,5 @@ This project uses a Raspberry Pico microcontroller to control LED lights accordi
 
 ## Task list 
 
-- [ ] adding buzzler with genator for sound effects
-- [ ] external LCD display connection for morse code display
+- [ ] adding a buzzler with generator for sound effects
+- [ ] external LCD display connection for Morse code display
